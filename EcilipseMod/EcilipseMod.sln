@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcilipseMod", "EcilipseMod\EcilipseMod.csproj", "{A8AE3EE5-90C7-49F2-BA9B-F37B6C5530EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8AE3EE5-90C7-49F2-BA9B-F37B6C5530EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AE3EE5-90C7-49F2-BA9B-F37B6C5530EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AE3EE5-90C7-49F2-BA9B-F37B6C5530EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AE3EE5-90C7-49F2-BA9B-F37B6C5530EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF3C87B8-8B6B-418E-9121-AC05F57AB4D5}
+	EndGlobalSection
+EndGlobal
