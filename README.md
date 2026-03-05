@@ -13,6 +13,7 @@ Stable Diffusion: Used Text2Img to generate the base character designs and Img2I
 Adobe Photoshop: Where the manual labor happens—fixing AI artifacts, cleaning edges, and managing transparency/padding for UI alignment.
 
 🎞️ Mod Preview
+
 ![Animation4](https://github.com/user-attachments/assets/4f6a1143-b3af-4f99-8895-196ac56cea52)
 ![202603~3](https://github.com/user-attachments/assets/50868fae-6069-4131-9a11-dca588ae22b1)
 ![202602~2](https://github.com/user-attachments/assets/59839b7c-256c-400e-9ba6-f361d6bcdb2d)
